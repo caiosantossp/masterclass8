@@ -1,6 +1,6 @@
 void main(List<String> arguments) {
   print(imc(103.0, 1.85));
-  print(fibonacci(1000));
+  print(fibonacci(20));
 }
 
 List fibonacci(int limite) {
